@@ -32,7 +32,8 @@ Unlike standard camera apps, this tool is optimized for **speed** and **batch pr
 This app is part of a massive project where I have developed and released **50+ mini-apps** globally. Each app is designed to be lightweight, useful, and accessible to everyone, regardless of their language.
 
 ### View My Other Apps
-- [Google Play Store Developer Page](https://play.google.com/store/apps/dev?id=7155639697967205469)
+- [Google Play Store Developer Page](https://play.google.com/store/apps/dev?id=7266451443285436081)
+- [App Store Developer Page](https://apps.apple.com/developer/akira-ohmachi/id1338624340)
 - [YouTube Channel - Try This App Now](https://www.youtube.com/@TryThisAppNow)
 
 ---
