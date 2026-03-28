@@ -3,7 +3,7 @@ description: "barcodereader"
 
 publish_to: 'none'
 
-version: 2.16.0+59
+version: 2.16.1+60
 
 environment:
   sdk: ^3.11.0
