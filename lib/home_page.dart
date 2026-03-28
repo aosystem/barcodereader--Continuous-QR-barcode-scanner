@@ -140,7 +140,13 @@ class _MainHomePageState extends State<MainHomePage> {
     if (text.isEmpty) {
       return;
     }
-    SharePlus.instance.share(ShareParams(text: text));
+    final box = context.findRenderObject() as RenderBox?;
+    SharePlus.instance.share(
+      ShareParams(
+        text: text,
+        sharePositionOrigin: box!.localToGlobal(Offset.zero) & box.size,
+      ),
+    );
   }
 
   void _launchUrlOrShare(String text) async {
